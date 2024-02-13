@@ -1,7 +1,7 @@
 
 # Epic Fantasy
 
-Este é o modpack Epic Fantasy, uma jornada épica que transforma sua experiência no Minecraft em algo verdadeiramente mágico e fantástico. Prepare-se para explorar um mundo vasto e cheio de surpresas com uma variedade de recursos emocionantes.
+Uma jornada épica que transforma sua experiência no Minecraft em algo verdadeiramente mágico e fantástico. Prepare-se para explorar um mundo vasto e cheio de surpresas com uma variedade de recursos emocionantes.
 
 ## Recursos Principais:
 
