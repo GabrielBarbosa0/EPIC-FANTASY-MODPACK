@@ -2,15 +2,22 @@
 <p align="center" text-align="center">Minha paixão pela tecnologia impulsiona meu foco no desenvolvimento web e design digital. Atualmente, estou cursando Bacharelado em Sistemas de Informação na UPE (Universidade de Pernambuco), mergulhando ainda mais fundo no vasto universo da computação.</p>
 
 
-- ✔️ Caves & Cliffs 1.17 UPDATE! [Now able to go below y 0 into the Deep Dark Dimension]
-- ✔️ Oh the Biomes You'll Go, Better Nether & BetterEnd Mods!
-- ✔️ 5 NEW Dimension to Explore
-- ✔️ QUESTS to help you progress into the different Dimensions!
-- ✔️ Tons of New and Unique Bosses, Dungeons & Mobs
-- ✔️ Tons of New Crops, Food & Decorative Blocks!
-- ✔️ Dragon Egg can now be hatched! [Different types of dragons too]
-- ✔️ Tons of QOL mods [Quality of Life]
-- ✔️ 210+ Mods to bring life to your world [Much more content to explore!]
-- ✔️ A Brand New Experience of Vanilla Minecraft
+# Modpack Epic Fantasy
 
-<br>
+Este é o modpack Epic Fantasy, uma jornada épica que transforma sua experiência no Minecraft em algo verdadeiramente mágico e fantástico. Prepare-se para explorar um mundo vasto e cheio de surpresas com uma variedade de recursos emocionantes.
+
+## Recursos Principais:
+
+- ✔️ Biomes O' Plenty
+- ✔️ 1 nova dimensão para explorar
+- ✔️ Toneladas de novos e únicos chefes, dungeons e mobs
+- ✔️ Muitas novas culturas, alimentos e blocos decorativos!
+- ✔️ Ovo de dragão agora pode ser chocado! [Diferentes tipos de dragões também]
+- ✔️ Toneladas de mods de qualidade de vida (QOL)
+- ✔️ Mais de 180 mods para dar vida ao seu mundo [Muito mais conteúdo para explorar!]
+- ✔️ Uma experiência completamente nova do Minecraft vanilla
+
+Prepare-se para mergulhar em um mundo de aventuras épicas, onde cada canto esconde segredos emocionantes e desafios inesperados. Baixe agora o modpack Epic Fantasy e comece sua jornada hoje mesmo!
+
+
+
