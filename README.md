@@ -1,6 +1,6 @@
 <img src="https://gabrielbarbosa0.github.io/EPIC-FANTASY-MODPACK/image/imagem-repositorio-github.png"/>]
 
-# Epic Fantasy
+# EPIC FANTASY
 
 Uma jornada épica que transforma sua experiência no Minecraft em algo verdadeiramente mágico e fantástico. Prepare-se para explorar um mundo vasto e cheio de surpresas com uma variedade de recursos emocionantes.
 
