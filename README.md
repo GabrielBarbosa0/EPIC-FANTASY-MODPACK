@@ -1,4 +1,4 @@
-<img src="https://gabrielbarbosa0.github.io/EPIC-FANTASY-MODPACK/image/imagem-repositorio-github.png"/>]
+<img src="https://raw.githubusercontent.com/GabrielBarbosa0/EPIC-FANTASY-MODPACK/master/image/imagem-repositorio-github.png"/>
 
 # EPIC FANTASY
 
