@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 86c19ddac581020a351781ef665b253598fc5db5
 <img src="https://gabrielbarbosa0.github.io/EPIC-FANTASY-MODPACK/image/imagem-repositorio-github.png"/>]
 
 # EPIC FANTASY
