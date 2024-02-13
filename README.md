@@ -5,10 +5,9 @@ Uma jornada épica que transforma sua experiência no Minecraft em algo verdadei
 
 ## Recursos Principais:
 
-- ✔️ Biomes O' Plenty
+- ✔️ Mais de 70 novos biomas!
 - ✔️ 1 nova dimensão para explorar
 - ✔️ Toneladas de novos e únicos chefes, dungeons e mobs
-- ✔️ Muitas novas culturas, alimentos e blocos decorativos!
 - ✔️ Ovo de dragão agora pode ser chocado! [Diferentes tipos de dragões também]
 - ✔️ Toneladas de mods de qualidade de vida (QOL)
 - ✔️ Mais de 180 mods para dar vida ao seu mundo [Muito mais conteúdo para explorar!]
