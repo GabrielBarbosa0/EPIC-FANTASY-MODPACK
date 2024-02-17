@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "ae87c4cb9b4e11ecb2cef02f74958c02"
+	name: "Gabriel_Barbosa0"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

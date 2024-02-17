@@ -1,0 +1,730 @@
+{
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2022-12-23 19:26:35 -0200"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2022-12-23 19:06:17 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2022-12-23 19:26:53 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2022-12-23 19:26:35 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2022-12-23 19:26:35 -0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2022-12-23 19:23:38 -0200"
+    },
+    "done": true
+  },
+  "theabyss:strange_rem_phases": {
+    "criteria": {
+      "strange_rem_phases": "2022-12-23 18:57:36 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2022-12-23 19:26:35 -0200"
+    },
+    "done": true
+  },
+  "xreliquary:recipes/xreliquary/mob_charm_fragments/skeleton": {
+    "criteria": {
+      "has_rib_bone": "2022-12-23 19:23:01 -0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2022-12-23 19:28:49 -0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2022-12-23 19:28:49 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2022-12-23 19:26:35 -0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2022-12-23 19:28:49 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2022-12-23 19:26:35 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2022-12-23 19:26:35 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2022-12-23 19:26:35 -0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2022-12-23 19:28:49 -0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/the_acknowledgment": {
+    "criteria": {
+      "has_iron_ingot": "2022-12-23 18:44:55 -0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2022-12-23 19:28:49 -0200"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2022-12-23 18:44:55 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-12-23 19:10:31 -0200"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2022-12-23 19:10:30 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2022-12-23 19:26:35 -0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/bonus_wool_recipes": {
+    "criteria": {
+      "has_white_wool": "2022-12-23 19:26:35 -0200"
+    },
+    "done": true
+  },
+  "theabyss:story_adv": {
+    "criteria": {
+      "story_adv": "2022-12-23 18:57:36 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2022-12-23 19:26:35 -0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/cursed_stone": {
+    "criteria": {
+      "is_cursed_one": "2022-12-23 19:50:16 -0200"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2022-12-23 19:28:49 -0200"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2022-12-23 18:44:55 -0200"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/bone_pile": {
+    "criteria": {
+      "has_item": "2022-12-23 18:47:46 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-12-23 19:28:49 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2022-12-23 19:26:35 -0200"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/quiver_arrow_small": {
+    "criteria": {
+      "has_arrow": "2022-12-23 19:23:01 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2022-12-23 19:49:32 -0200"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2022-12-23 18:44:55 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2022-12-23 19:26:35 -0200"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/cestus": {
+    "criteria": {
+      "has_wool": "2022-12-23 19:26:35 -0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/berserk_emblem": {
+    "criteria": {
+      "is_cursed_one": "2022-12-23 19:50:16 -0200"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2022-12-23 19:23:57 -0200"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_small_prairie_house": {
+    "criteria": {
+      "location0": "2022-12-23 19:25:27 -0200"
+    },
+    "done": true
+  },
+  "advancednetherite:nether/obtain_netherite_iron_ingot": {
+    "criteria": {
+      "netherite_iron_ingot": "2022-12-23 18:44:55 -0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/soul_loss": {
+    "criteria": {
+      "incompletable": "2022-12-23 20:05:41 -0200",
+      "is_cursed_one": "2022-12-23 19:50:16 -0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/enigmatic_amulet": {
+    "criteria": {
+      "has_items": "2022-12-23 18:44:55 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2022-12-23 18:47:46 -0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "ominous_woods": "2022-12-23 18:44:55 -0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2022-12-23 19:28:49 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2022-12-23 19:39:09 -0200"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/advancednetherite.tab/netherite_emerald_ingot": {
+    "criteria": {
+      "has_OptionalNamedTag[forge:gems/emerald]": "2022-12-23 19:49:32 -0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/tome_uncrafting/tattered_tome": {
+    "criteria": {
+      "has_items": "2022-12-23 19:31:19 -0200"
+    },
+    "done": true
+  },
+  "mutantbeasts:root": {
+    "criteria": {
+      "killed_by_something": "2022-12-23 18:48:55 -0200"
+    },
+    "done": true
+  },
+  "dead_guys_untitled_deep_dark_:deep_dark": {
+    "criteria": {
+      "deep_dark": "2022-12-23 18:44:55 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2022-12-23 19:26:35 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2022-12-23 19:39:09 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2022-12-23 19:26:35 -0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2022-12-23 19:28:49 -0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/twisted_core": {
+    "criteria": {
+      "is_cursed_one": "2022-12-23 19:50:16 -0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2022-12-23 19:26:53 -0200"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2022-12-23 19:13:27 -0200"
+    },
+    "done": true
+  },
+  "theabyss:the_abyss_adv": {
+    "criteria": {
+      "the_abyss_adv": "2022-12-23 19:09:18 -0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2022-12-23 19:28:49 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+    "criteria": {
+      "has_mutton": "2022-12-23 19:26:35 -0200"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2022-12-23 18:44:55 -0200"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/white_sofa": {
+    "criteria": {
+      "has_wool": "2022-12-23 19:26:35 -0200"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/bone_pile_block": {
+    "criteria": {
+      "has_item": "2022-12-23 18:47:46 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2022-12-23 19:39:09 -0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2022-12-23 19:22:45 -0200"
+    },
+    "done": true
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2022-12-23 18:44:55 -0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/cursed_ring": {
+    "criteria": {
+      "has_items": "2022-12-23 18:44:55 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2022-12-23 19:26:35 -0200"
+    },
+    "done": true
+  },
+  "majruszs_difficulty:progressive_difficulty/master_mode": {
+    "criteria": {
+      "game_state": "2022-12-23 18:44:55 -0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "redwood_forest_edge": "2022-12-23 19:25:54 -0200",
+      "flower_meadow": "2022-12-23 19:04:52 -0200",
+      "orchard": "2022-12-23 19:25:45 -0200",
+      "redwood_forest": "2022-12-23 19:44:37 -0200",
+      "meadow": "2022-12-23 18:56:34 -0200",
+      "gravel_beach": "2022-12-23 20:07:07 -0200",
+      "grove": "2022-12-23 19:27:49 -0200",
+      "ominous_woods": "2022-12-23 18:44:55 -0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2022-12-23 19:39:09 -0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2022-12-23 19:28:49 -0200"
+    },
+    "done": true
+  },
+  "majruszs_difficulty:progressive_difficulty/normal_mode": {
+    "criteria": {
+      "game_state": "2022-12-23 18:44:55 -0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/ender_ring": {
+    "criteria": {
+      "is_cursed_one": "2022-12-23 19:50:16 -0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2022-12-23 20:07:17 -0200",
+      "minecraft:mountains": "2022-12-23 18:51:42 -0200",
+      "minecraft:beach": "2022-12-23 19:37:12 -0200",
+      "minecraft:river": "2022-12-23 19:27:51 -0200",
+      "minecraft:lukewarm_ocean": "2022-12-23 19:28:55 -0200",
+      "minecraft:plains": "2022-12-23 19:05:47 -0200"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2022-12-23 18:56:44 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2022-12-23 19:26:35 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2022-12-23 19:39:09 -0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2022-12-23 19:23:57 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-12-23 19:28:49 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-12-23 19:28:49 -0200"
+    },
+    "done": true
+  },
+  "theabyss:loran_adv": {
+    "criteria": {
+      "loran_adv": "2022-12-23 19:06:25 -0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/avarice_scroll": {
+    "criteria": {
+      "is_cursed_one": "2022-12-23 19:50:16 -0200"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2022-12-23 18:48:55 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-12-23 19:28:49 -0200"
+    },
+    "done": true
+  },
+  "theabyss:flora_adv": {
+    "criteria": {
+      "flora_adv": "2022-12-23 19:06:25 -0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2022-12-23 18:44:55 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2022-12-23 19:39:09 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-12-23 19:28:49 -0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/cursed_scroll": {
+    "criteria": {
+      "is_cursed_one": "2022-12-23 19:50:16 -0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2022-12-23 19:26:35 -0200"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/chandelier": {
+    "criteria": {
+      "has_torch": "2022-12-23 18:45:29 -0200"
+    },
+    "done": true
+  },
+  "majruszs_difficulty:progressive_difficulty/expert_mode": {
+    "criteria": {
+      "game_state": "2022-12-23 18:44:55 -0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/dark_mirror": {
+    "criteria": {
+      "is_cursed_one": "2022-12-23 19:50:16 -0200"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2022-12-23 19:22:56 -0200",
+      "minecraft:spider": "2022-12-23 19:39:15 -0200",
+      "minecraft:phantom": "2022-12-23 19:34:07 -0200",
+      "minecraft:witch": "2022-12-23 19:39:08 -0200",
+      "minecraft:wither_skeleton": "2022-12-23 19:40:08 -0200",
+      "minecraft:zombie": "2022-12-23 19:22:45 -0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2022-12-23 19:03:11 -0200"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2022-12-23 18:44:55 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2022-12-23 19:39:09 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2022-12-23 19:39:09 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2022-12-23 19:26:35 -0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2022-12-23 19:28:49 -0200"
+    },
+    "done": true
+  },
+  "xreliquary:recipes/misc/uncrafting/bone": {
+    "criteria": {
+      "has_rib_bone": "2022-12-23 19:23:01 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2022-12-23 19:26:35 -0200"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "beginning_village": "2022-12-23 19:27:51 -0200"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2022-12-23 19:25:45 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2022-12-23 19:26:53 -0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/enchanter_pearl": {
+    "criteria": {
+      "is_cursed_one": "2022-12-23 19:50:16 -0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2022-12-23 19:03:11 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2022-12-23 19:26:35 -0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/root": {
+    "criteria": {
+      "flower": "2022-12-23 18:44:55 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2022-12-23 19:26:35 -0200"
+    },
+    "done": true
+  },
+  "voidtotem:recipes/combat/totem_of_void_undying": {
+    "criteria": {
+      "has_emerald": "2022-12-23 19:49:32 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-12-23 19:28:49 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2022-12-23 19:26:35 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2022-12-23 19:26:53 -0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/the_twist": {
+    "criteria": {
+      "has_parent_recipe": "2022-12-23 18:44:55 -0200",
+      "is_cursed_one": "2022-12-23 19:50:16 -0200"
+    },
+    "done": false
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2022-12-23 18:44:55 -0200"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}
